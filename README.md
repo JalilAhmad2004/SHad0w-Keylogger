@@ -18,7 +18,7 @@ Directory Setup: The PHP scripts will interact with the uploads directory. Make 
 ## Setup Instructions
 Clone the Repository
 
-    git clone https://github.com/yourusername/shad0w-keylogger.git
+    git clone https://github.com/JalilAhmad2004/SHad0w-Keylogger.git
 
 ## Configure PHP Files
 
